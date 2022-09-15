@@ -2,7 +2,7 @@
 
 #### Full Stack Developer
 
-A Full Stack Developer professional, with 2+ years of work experience in Europe. I’ve been working and collaborating with top Advertising agencies and clients directly.
+A Full Stack Developer, with 2+ years of work experience in Europe.
 
 
 ### Languages and Tools:
