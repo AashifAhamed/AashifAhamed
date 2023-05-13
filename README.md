@@ -12,6 +12,7 @@ A Full Stack Developer, with 3+ years of work experience in Europe.
  <img src="https://komarev.com/ghpvc/?username=AashifAhamed&label=Profile%20views&color=0e75b6&style=flat" alt="AashifAhamed" /> 
 
 
+<a href="https://stackoverflow.com/users/9781495/aashif-ahamed"><img src="https://stackoverflow.com/users/flair/9781495.png?theme=light" width="220" height="70"></a>
 
 ### Connect with me:
 
