@@ -5,8 +5,7 @@
 
 > Full Stack Developer
 
-A Full Stack Developer, with 3+ years of work experience in Europe.
-
+A Full Stack Developer, with 3+ years of work experience in Europe Company.
 > Languages and Tools
 
 <table>
