@@ -1,11 +1,21 @@
+<!-- Modern GitHub Profile README for Aashif Ahamed -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Aashif%20Ahamed&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" />
+</div>
+
 <h3 align="center">
-  Welcome to Aashif's Profile!
+  Welcome to my profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=440&lines=Full+Stack+Developer;3%2B+Years+Experience;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=440&lines=Full+Stack+Developer;4%2B+Years+Experience;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AashifAhamed&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+</div>
 
 ## 👨‍💻 About Me
 
@@ -53,7 +63,7 @@ A Full Stack Developer with 4+ years of experience working with European compani
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="48" height="48" alt="Laravel" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" width="48" height="48" alt="Laravel" />
       </a>
       <br>Laravel
     </td>
@@ -151,11 +161,16 @@ A Full Stack Developer with 4+ years of experience working with European compani
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AashifAhamed&show_icons=true&theme=tokyonight" alt="Aashif's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AashifAhamed&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Aashif's GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AashifAhamed&layout=compact&theme=radical&hide_border=true" alt="Aashif's Top Languages" height="170" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AashifAhamed&theme=tokyonight" alt="Aashif's GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=AashifAhamed&theme=radical&hide_border=true" alt="Aashif's GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AashifAhamed&theme=radical&no-frame=true&row=1&&margin-w=20&no-bg=true" alt="Aashif's GitHub Trophies" />
 </div>
 
 ## 💻 Recent Projects
@@ -169,15 +184,15 @@ A Full Stack Developer with 4+ years of experience working with European compani
 
 <p align="center">
   <a href="https://wa.me/+94775474244">
-    <img alt="WhatsApp" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/whatsapp.svg" />
+    <img alt="WhatsApp" width="32px" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:aashifahamed0796@gmail.com">
-    <img alt="Gmail" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/gmail.svg" />
+    <img alt="Gmail" width="120px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/aashifahamed7">
-    <img alt="LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" />
+    <img alt="LinkedIn" width="128px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
@@ -187,6 +202,10 @@ A Full Stack Developer with 4+ years of experience working with European compani
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AashifAhamed&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+## 🙏 Support Me
+
+<div align="center">
+  <a href="https://www.buymeacoffee.com/aashifahamed" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="170" />
+  </a>
+</div>
